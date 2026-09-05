@@ -1,1 +1,1 @@
-[HBV4CANARY](mailto:x)
+[HBV4CANARY](tel:x)
