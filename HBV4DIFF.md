@@ -1,1 +1,1 @@
-<?php echo 'HBV4CANARY'; ?>
+<!DOCTYPE HBV4CANARY>
