@@ -1,1 +1,1 @@
-<p id="HBV4CANARY">x</p>
+<p data-hbv4="HBV4CANARY">x</p>
