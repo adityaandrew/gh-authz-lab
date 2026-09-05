@@ -1,1 +1,1 @@
-<!-- HBV4CANARY -->
+<?php echo 'HBV4CANARY'; ?>
