@@ -1,1 +1,1 @@
-<video src="https://x.example/v.mp4" controls>HBV4CANARY</video>
+<details open><summary>HBV4CANARY</summary>body</details>
