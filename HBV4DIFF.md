@@ -1,3 +1,1 @@
-```HBV4CANARY meta=1
-x
-```
+<![CDATA[HBV4CANARY]]>
