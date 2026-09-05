@@ -1,1 +1,1 @@
-~~HBV4CANARY~~
+www.example.com/HBV4CANARY
