@@ -1,1 +1,1 @@
-[HBV4CANARY](tel:x)
+[HBV4CANARY](ftp:x)
