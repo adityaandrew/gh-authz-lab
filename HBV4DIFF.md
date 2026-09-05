@@ -1,1 +1,1 @@
-<map>HBV4CANARY</map>
+<area>HBV4CANARY</area>
