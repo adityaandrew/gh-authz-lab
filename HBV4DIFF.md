@@ -1,1 +1,1 @@
-just text HBV4CANARY
+<b>HBV4CANARY</b>
