@@ -1,3 +1,2 @@
-x[^HBV4]
-
-[^HBV4]: note
+> [!WARNING]
+> HBV4CANARY
