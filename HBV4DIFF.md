@@ -1,1 +1,1 @@
-<a href="https://x.example" target="_blank" rel="x" download="d">HBV4CANARY</a>
+<video src="https://x.example/v.mp4" controls>HBV4CANARY</video>
