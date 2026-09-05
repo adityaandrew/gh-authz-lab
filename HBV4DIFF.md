@@ -1,1 +1,1 @@
-<![CDATA[HBV4CANARY]]>
+<!-- HBV4CANARY -->
