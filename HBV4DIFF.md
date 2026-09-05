@@ -1,1 +1,1 @@
-<details>HBV4CANARY</details>
+<summary>HBV4CANARY</summary>
