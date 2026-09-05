@@ -1,1 +1,2 @@
-[HBV4CANARY](java	script:alert(1))
+[HBV4CANARY](java
+script:alert(1))
