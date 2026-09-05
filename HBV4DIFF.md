@@ -1,1 +1,1 @@
-seed
+just text HBV4CANARY
