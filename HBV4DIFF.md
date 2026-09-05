@@ -1,1 +1,1 @@
-<details open><summary>HBV4CANARY</summary>body</details>
+[HBV4CANARY](javascript:x)
