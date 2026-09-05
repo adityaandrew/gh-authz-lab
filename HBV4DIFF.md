@@ -1,3 +1,3 @@
-```mermaid
-graph TD; A[HBV4CANARY]-->B;
+```geojson
+{"type":"Point","coordinates":[0,0]}
 ```
