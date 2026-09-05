@@ -1,1 +1,1 @@
-<svg xmlns='http://www.w3.org/2000/svg' onload='alert(1)'><text y=20>HBV4RAW</text></svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='300' height='80' onload="document.title='HBV4EXEC-ONLOAD';window.name='HBV4EXEC'"><script type='text/javascript'>document.title='HBV4EXEC-SCRIPT'</script><text x='4' y='20'>HBV4RAWSVG</text></svg>
