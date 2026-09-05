@@ -1,1 +1,1 @@
-<p class="HBV4CANARY">x</p>
+<p id="HBV4CANARY">x</p>
