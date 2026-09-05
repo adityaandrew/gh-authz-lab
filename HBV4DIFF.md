@@ -1,3 +1,3 @@
-```math
-\href{javascript:alert(1)}{HBV4CANARY}
+```mermaid
+graph TD; A[HBV4CANARY]-->B;
 ```
