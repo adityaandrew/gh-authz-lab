@@ -1,1 +1,1 @@
-<p aria-label="HBV4CANARY">x</p>
+<img src="https://x.example/a.png" onerror="alert(1)" style="width:9px" class="c" id="i" loading="lazy" alt="HBV4CANARY">
