@@ -1,1 +1,1 @@
-<option>HBV4CANARY</option>
+<template>HBV4CANARY</template>
