@@ -1,1 +1,1 @@
-<img src="https://x.example/a.png" onerror="alert(1)" style="width:9px" class="c" id="i" loading="lazy" alt="HBV4CANARY">
+<a href="https://x.example" target="_blank" rel="x" download="d">HBV4CANARY</a>
