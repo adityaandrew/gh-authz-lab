@@ -1,1 +1,1 @@
-<button>HBV4CANARY</button>
+<select>HBV4CANARY</select>
