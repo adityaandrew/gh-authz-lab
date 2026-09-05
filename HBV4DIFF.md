@@ -1,1 +1,1 @@
-<p style="color:red">HBV4CANARY</p>
+<p class="HBV4CANARY">x</p>
