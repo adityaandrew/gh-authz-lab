@@ -1,2 +1,1 @@
-[HBV4CANARY](java
-script:alert(1))
+$$\href{javascript:alert(1)}{HBV4CANARY}$$
