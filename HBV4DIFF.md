@@ -1,1 +1,1 @@
-[HBV4CANARY](ws:x)
+[HBV4CANARY](chrome:x)
