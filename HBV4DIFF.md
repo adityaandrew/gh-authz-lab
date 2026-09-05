@@ -1,1 +1,1 @@
-<noscript>HBV4CANARY</noscript>
+<map>HBV4CANARY</map>
