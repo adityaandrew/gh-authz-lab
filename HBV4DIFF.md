@@ -1,1 +1,1 @@
-[HBV4CANARY](ftp:x)
+[HBV4CANARY](ws:x)
