@@ -1,1 +1,1 @@
-<select>HBV4CANARY</select>
+<option>HBV4CANARY</option>
