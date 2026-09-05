@@ -1,1 +1,1 @@
-[HBV4CANARY](javascript:x)
+[HBV4CANARY](data:x)
