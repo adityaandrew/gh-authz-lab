@@ -1,1 +1,1 @@
-<textarea>HBV4CANARY</textarea>
+<title>HBV4CANARY</title>
