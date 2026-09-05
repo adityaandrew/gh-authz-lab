@@ -1,1 +1,1 @@
-<form>HBV4CANARY</form>
+<input>HBV4CANARY</input>
