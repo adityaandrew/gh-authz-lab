@@ -1,3 +1,3 @@
-```geojson
-{"type":"Point","coordinates":[0,0]}
-```
+x[^HBV4]
+
+[^HBV4]: note
