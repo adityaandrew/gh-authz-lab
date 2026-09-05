@@ -1,1 +1,1 @@
-<p onclick="alert(1)">HBV4CANARY</p>
+<p aria-label="HBV4CANARY">x</p>
