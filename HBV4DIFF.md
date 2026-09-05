@@ -1,1 +1,1 @@
-<portal>HBV4CANARY</portal>
+<frame>HBV4CANARY</frame>
