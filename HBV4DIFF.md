@@ -1,1 +1,1 @@
-<applet>HBV4CANARY</applet>
+<noscript>HBV4CANARY</noscript>
