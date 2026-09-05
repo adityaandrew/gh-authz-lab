@@ -1,1 +1,1 @@
-<p data-hbv4="HBV4CANARY">x</p>
+<p onclick="alert(1)">HBV4CANARY</p>
