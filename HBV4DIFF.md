@@ -1,3 +1,1 @@
-|HBV4CANARY|
-|:-:|
-|x|
+~~HBV4CANARY~~
