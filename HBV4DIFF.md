@@ -1,1 +1,1 @@
-<area>HBV4CANARY</area>
+<p style="color:red">HBV4CANARY</p>
